@@ -1,0 +1,484 @@
+{
+    "crops": {
+        "potato": {
+            "diseases": [
+                {
+                    "disease_id": "Potato__early_blight",
+                    "name": {
+                        "scientific": "Alternaria solani",
+                        "english": "Potato Early Blight",
+                        "indonesian": "Bercak Daun Awal Kentang"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Bercak coklat gelap berbentuk lingkaran",
+                            "Pola cincin konsentris",
+                            "Infeksi pada daun bagian bawah",
+                            "Tepi daun menguning hingga coklat"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Isolasi tanaman yang terinfeksi",
+                            "Bersihkan area sekitar",
+                            "Hentikan penyiraman dari atas"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Dithane M-45",
+                                "purchase_links": [
+                                    "https://id.shp.ee/RecSGkj",
+                                    "https://id.shp.ee/d2oH7aW",
+                                    "https://tokopedia.link/28nbDOw27Ob"
+                                ]
+                            },
+                            {
+                                "name": "Score 250 EC",
+                                "purchase_links": [
+                                    "https://id.shp.ee/gLSbzdd",
+                                    "https://tokopedia.link/bGXgs6r27Ob",
+                                    "https://tokopedia.link/Ejkzf9t27Ob"
+                                ]
+                            },
+                            {
+                                "name": "Celerity 720",
+                                "purchase_links": [
+                                    "https://id.shp.ee/bZEoufh"
+                                ]
+                            },
+                            {
+                                "name": "Amistar Top",
+                                "purchase_links": [
+                                    "https://id.shp.ee/vSz33HL",
+                                    "https://tokopedia.link/iinCQNi37Ob",
+                                    "https://tokopedia.link/mvN3Rhk37Ob"
+                                ]
+                            },
+                            {
+                                "name": "Curzate M",
+                                "purchase_links": [
+                                    "https://tokopedia.link/ide03Rn37Ob",
+                                    "https://id.shp.ee/sYYKHoo",
+                                    "https://id.shp.ee/e5hope8"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "disease_id": "Potato__late_blight",
+                    "name": {
+                        "scientific": "Phytophthora infestans",
+                        "english": "Potato Late Blight",
+                        "indonesian": "Busuk Daun Lanjut Kentang"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Bercak daun seperti terendam air",
+                            "Pertumbuhan jamur putih di bawah daun",
+                            "Kerusakan daun yang cepat",
+                            "Area nekrotik coklat tua hingga hitam"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Buang dan musnahkan bagian tanaman yang terinfeksi",
+                            "Tingkatkan jarak antar tanaman untuk sirkulasi udara yang lebih baik",
+                            "Gunakan irigasi tetes sebagai pengganti penyiraman dari atas"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Ridomil Gold MZ 64 WG",
+                                "purchase_links": [
+                                    "https://id.shp.ee/xqra6mD",
+                                    "https://id.shp.ee/kTvw9jf",
+                                    "https://tokopedia.link/HWKPH9P37Ob"
+                                ]
+                            },
+                            {
+                                "name": "Previcur-N 722 SL",
+                                "purchase_links": [
+                                    "https://tokopedia.link/PsPInl237Ob",
+                                    "https://id.shp.ee/CbVhUtg",
+                                    "https://id.shp.ee/ixdDBeW"
+                                ]
+                            },
+                            {
+                                "name": "Acrobat 50 WP",
+                                "purchase_links": [
+                                    "https://id.shp.ee/EAUPyWm",
+                                    "https://id.shp.ee/wDNrL45",
+                                    "https://tokopedia.link/Dmvm2Fp47Ob"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "healthy_maintenance": {
+                "recommendations": [
+                    "Pertahankan pH tanah 5,5-6,5",
+                    "Kelembaban tanah konsisten (70-80% kapasitas lapangan)",
+                    "Pupuk NPK seimbang (rasio 5-10-10)",
+                    "Rotasi tanaman setiap 3-4 musim",
+                    "Pemantauan nutrisi tanah setiap kuartal"
+                ],
+                "optimal_conditions": {
+                    "temperature": "15-21°C",
+                    "humidity": "60-70%",
+                    "sunlight": "6-8 jam",
+                    "soil_type": "Tanah liat berpasir dengan drainase baik"
+                }
+            }
+        },
+        "rice": {
+            "diseases": [
+                {
+                    "disease_id": "Rice__brown_spot",
+                    "name": {
+                        "scientific": "Bipolaris oryzae",
+                        "english": "Rice Brown Spot",
+                        "indonesian": "Bercak Cokelat Padi"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Bercak coklat oval pada daun",
+                            "Pusat bercak berwarna abu-abu atau putih",
+                            "Kemungkinan nekrosis pada ujung daun"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Berikan pupuk seimbang dengan kalium yang cukup",
+                            "Perbaiki drainase sawah untuk mengurangi stres air",
+                            "Musnahkan sisa tanaman yang terinfeksi setelah panen"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Dithane M-45",
+                                "purchase_links": [
+                                    "https://id.shp.ee/RecSGkj",
+                                    "https://id.shp.ee/d2oH7aW",
+                                    "https://tokopedia.link/28nbDOw27Ob"
+                                ]
+                            },
+                            {
+                                "name": "Folicur 250 EC",
+                                "purchase_links": [
+                                    "https://tokopedia.link/YHZHbbk57Ob",
+                                    "https://id.shp.ee/Ym1n65f"
+                                ]
+                            },
+                            {
+                                "name": "Score 250 EC",
+                                "purchase_links": [
+                                    "https://tokopedia.link/auGMtzC57Ob",
+                                    "https://id.shp.ee/gLSbzdd",
+                                    "https://tokopedia.link/bGXgs6r27Ob",
+                                    "https://tokopedia.link/Ejkzf9t27Ob"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "disease_id": "Rice__leaf_blast",
+                    "name": {
+                        "scientific": "Pyricularia oryzae",
+                        "english": "Rice Leaf Blast",
+                        "indonesian": "Blast Daun Padi"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Bercak kecil berbentuk berlian dengan pusat abu-abu dan tepi coklat pada daun",
+                            "Lesi dapat membesar dan membentuk bentuk gelendong",
+                            "Perubahan warna pada pelepah atau batang",
+                            "Layu mendadak pada kasus parah"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Keringkan air berlebih dari sawah untuk mengurangi kelembaban",
+                            "Buang dan musnahkan tanaman atau bagian tanaman yang terinfeksi",
+                            "Hindari pemupukan nitrogen berlebihan"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Beam",
+                                "purchase_links": [
+                                    "https://id.shp.ee/zAQpZ9m",
+                                    "https://tokopedia.link/YqNPl3S47Ob"
+                                ]
+                            },
+                            {
+                                "name": "Anvil 50 SC",
+                                "purchase_links": [
+                                    "https://tokopedia.link/HzYykQ947Ob",
+                                    "https://id.shp.ee/sCNMVgD"
+                                ]
+                            },
+                            {
+                                "name": "Amistar Top 325 SC",
+                                "purchase_links": [
+                                    "https://id.shp.ee/w5VEtpj",
+                                    "https://id.shp.ee/vSz33HL",
+                                    "https://tokopedia.link/iinCQNi37Ob",
+                                    "https://tokopedia.link/mvN3Rhk37Ob"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "healthy_maintenance": {
+                "recommendations": [
+                    "Pertahankan kedalaman air 5-10 cm",
+                    "Pupuk seimbang (N-P-K 100:50:50 kg/hektar)",
+                    "Tanam secara serempak",
+                    "Sistem drainase yang baik",
+                    "Pengendalian salinitas tanah"
+                ],
+                "optimal_conditions": {
+                    "temperature": "20-35°C",
+                    "humidity": "70-80%",
+                    "sunlight": "Paparan penuh sepanjang hari",
+                    "soil_type": "Tanah liat dengan retensi air"
+                }
+            }
+        },
+        "soybean": {
+            "diseases": [
+                {
+                    "disease_id": "Soybean__caterpillar",
+                    "name": {
+                        "scientific": "Spodoptera litura",
+                        "english": "Soybean Caterpillar",
+                        "indonesian": "Ulat Pemakan Daun Kedelai"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Lubang pada daun dengan tepi tidak beraturan",
+                            "Daun menjadi rangka pada kasus parah",
+                            "Keberadaan ulat di bagian bawah daun"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Pungut ulat secara manual saat infestasi awal",
+                            "Dorong kehadiran predator alami seperti burung dan tawon",
+                            "Gunakan perangkap cahaya untuk memantau dan mengurangi populasi ulat"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Decis® 25 EC",
+                                "purchase_links": [
+                                    "https://id.shp.ee/JcK3LAt",
+                                    "https://id.shp.ee/oaCmM7C",
+                                    "https://tokopedia.link/a3CaYNs67Ob"
+                                ]
+                            },
+                            {
+                                "name": "Prevathon® 50 SC",
+                                "purchase_links": [
+                                    "https://tokopedia.link/3X17LUu67Ob",
+                                    "https://tokopedia.link/L7hwh2w67Ob",
+                                    "https://id.shp.ee/kk8tqF9"
+                                ]
+                            },
+                            {
+                                "name": "Virtako 300 SC",
+                                "purchase_links": [
+                                    "https://id.shp.ee/Qg4aNSZ",
+                                    "https://id.shp.ee/5wQ2UE8",
+                                    "https://tokopedia.link/U7dmmvN67Ob",
+                                    "https://tokopedia.link/AgupSxO67Ob"
+                                ]
+                            },
+                            {
+                                "name": "Preza™ 100 OD",
+                                "purchase_links": [
+                                    "https://tokopedia.link/V8gn1mE77Ob",
+                                    "https://tokopedia.link/oirE38H77Ob",
+                                    "https://tokopedia.link/mX5UNmK77Ob",
+                                    "https://id.shp.ee/VB27knk"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "disease_id": "Soybean__diabrotica_speciosa",
+                    "name": {
+                        "scientific": "Diabrotica speciosa",
+                        "english": "Soybean Leaf Beetle",
+                        "indonesian": "Kumbang Daun Kedelai"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Lubang melingkar atau tidak beraturan pada daun",
+                            "Daun menjadi rangka pada kasus parah",
+                            "Keberadaan kumbang hijau-kuning dengan bintik hitam"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Pungut kumbang secara manual jika infestasi rendah",
+                            "Singkirkan sisa tanaman untuk mengurangi habitat kumbang",
+                            "Perkenalkan musuh alami seperti kumbang predator"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Marshal® 200 EC",
+                                "purchase_links": [
+                                    "https://tokopedia.link/tlPb9Y767Ob",
+                                    "https://tokopedia.link/BCthRyc77Ob",
+                                    "https://id.shp.ee/kgEw46v"
+                                ]
+                            },
+                            {
+                                "name": "Decis® 25 EC",
+                                "purchase_links": [
+                                    "https://id.shp.ee/JcK3LAt",
+                                    "https://id.shp.ee/oaCmM7C",
+                                    "https://tokopedia.link/a3CaYNs67Ob"
+                                ]
+                            },
+                            {
+                                "name": "Preza™ 100 OD",
+                                "purchase_links": [
+                                    "https://tokopedia.link/V8gn1mE77Ob",
+                                    "https://tokopedia.link/oirE38H77Ob",
+                                    "https://tokopedia.link/mX5UNmK77Ob",
+                                    "https://id.shp.ee/VB27knk"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "healthy_maintenance": {
+                "recommendations": [
+                    "Pertahankan pH tanah 6,0-6,5",
+                    "Gunakan inokulan fiksasi nitrogen",
+                    "Pupuk fosfor dan kalium",
+                    "Rotasi tanaman",
+                    "Pengendalian gulma dini"
+                ],
+                "optimal_conditions": {
+                    "temperature": "20-30°C",
+                    "humidity": "60-70%",
+                    "sunlight": "Paparan penuh sepanjang hari",
+                    "soil_type": "Tanah lempung dengan drainase baik"
+                }
+            }
+        },
+        "wheat": {
+            "diseases": [
+                {
+                    "disease_id": "Wheat__brown_rust",
+                    "name": {
+                        "scientific": "Puccinia recondita",
+                        "english": "Wheat Brown Rust",
+                        "indonesian": "Karat Cokelat Gandum"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Pustula kecil, bulat, coklat kemerahan pada daun dan batang",
+                            "Pustula dapat berkelompok pada kasus parah",
+                            "Daun menguning dan mengering prematur"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Buang dan musnahkan sisa tanaman yang terinfeksi",
+                            "Pastikan jarak antar tanaman cukup untuk sirkulasi udara",
+                            "Hindari penyiraman dari atas"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Bumper 75 WP",
+                                "purchase_links": [
+                                    "https://tokopedia.link/ZZneAuI87Ob",
+                                    "https://id.shp.ee/ogyXpKU",
+                                    "https://id.shp.ee/VSSRB8c"
+                                ]
+                            },
+                            {
+                                "name": "Melyra® 200/200 SC",
+                                "purchase_links": [
+                                    "https://id.shp.ee/zzeRABS",
+                                    "https://tokopedia.link/mACA0Bd97Ob"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "disease_id": "Wheat__yellow_rust",
+                    "name": {
+                        "scientific": "Puccinia striiformis",
+                        "english": "Wheat Yellow Rust",
+                        "indonesian": "Karat Kuning Gandum"
+                    },
+                    "detection": {
+                        "visual_symptoms": [
+                            "Pustula kuning berbentuk garis pada daun",
+                            "Layu dan kematian daun pada infeksi parah",
+                            "Pertumbuhan terhambat pada tanaman yang terinfeksi"
+                        ]
+                    },
+                    "treatment": {
+                        "immediate_actions": [
+                            "Cabut dan musnahkan tanaman yang terinfeksi sejak dini",
+                            "Tanam varietas gandum yang tahan jika tersedia",
+                            "Hindari menanam gandum di dekat ladang yang terinfeksi"
+                        ],
+                        "application_method": "Semprot daun dengan obat",
+                        "medicines": [
+                            {
+                                "name": "Folicur® 430 SC",
+                                "purchase_links": [
+                                    "https://tokopedia.link/83dkmlk97Ob",
+                                    "https://tokopedia.link/TSGcp9n97Ob",
+                                    "https://id.shp.ee/oTaUdSf",
+                                    "https://id.shp.ee/18SLsw7"
+                                ]
+                            },
+                            {
+                                "name": "NATIVO 75 WG",
+                                "purchase_links": [
+                                    "https://tokopedia.link/mAwR5Hy97Ob",
+                                    "https://tokopedia.link/CVMiadA97Ob",
+                                    "https://id.shp.ee/Wa1bHrR",
+                                    "https://id.shp.ee/FJjFt8Uq"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "healthy_maintenance": {
+                "recommendations": [
+                    "Pertahankan pH tanah 6,0-7,0",
+                    "Gunakan pupuk kaya nitrogen",
+                    "Perlakuan benih sebelum tanam",
+                    "Rotasi tanaman",
+                    "Jarak tanam yang tepat"
+                ],
+                "optimal_conditions": {
+                    "temperature": "10-25°C",
+                    "humidity": "50-70%",
+                    "sunlight": "6-8 jam",
+                    "soil_type": "Tanah subur dengan drainase baik"
+                }
+            }
+        }
+    }
+}
